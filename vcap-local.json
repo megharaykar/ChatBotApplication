@@ -1,0 +1,25 @@
+
+    "cloudantNoSQLDB": [
+        {
+            "credentials": {
+                "username": "9073aec4-6490-4606-ad73-0ca9d11bc780-bluemix",
+                "password": "50eeee4fd02ad187ee44d6eda351f57d4e690c3becf8b76efd3eb0167f10bc83",
+                "host": "9073aec4-6490-4606-ad73-0ca9d11bc780-bluemix.cloudant.com",
+                "port": 443,
+                "url": "https://9073aec4-6490-4606-ad73-0ca9d11bc780-bluemix:50eeee4fd02ad187ee44d6eda351f57d4e690c3becf8b76efd3eb0167f10bc83@9073aec4-6490-4606-ad73-0ca9d11bc780-bluemix.cloudant.com"
+            },
+            "syslog_drain_url": null,
+            "volume_mounts": [],
+            "label": "cloudantNoSQLDB",
+            "provider": null,
+            "plan": "Lite",
+            "name": "ChatBotApplication-cloudantNoSQLDB",
+            "tags": [
+                "data_management",
+                "ibm_created",
+                "lite",
+                "ibm_dedicated_public"
+            ]
+        }
+    ]
+}
